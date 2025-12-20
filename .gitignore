@@ -1,0 +1,14 @@
+*.json
+!package.json
+!package-lock.json
+!tsconfig*.json
+!prisma/schema.prisma
+node_modules/
+dist/
+.env
+.env.*.local
+.vscode/
+.DS_Store
+npm-debug.log*
+yarn-error.log
+pnpm-debug.log*
